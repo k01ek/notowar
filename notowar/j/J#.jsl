@@ -1,0 +1,8 @@
+import System.*;
+public class NoWar
+{
+  public static void main()
+  {
+    Console.WriteLine("No to war!");
+  }
+}
